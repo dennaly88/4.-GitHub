@@ -16,3 +16,17 @@ Curso Completo de GitHub Realizado por Danny Jimenez
 ✅ 9.  git reset
 ✅ 10. git config
 ✅ 11. git branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
