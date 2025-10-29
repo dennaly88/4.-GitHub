@@ -12,27 +12,40 @@
 ------------------------------------------------------------------------------------------------------------->
 
 #____________________________________________________________________________________________________________#
-#  Actualizar                                                                                                #
+#  Actualizar  Repositor en GitHub                                                                           #
 #____________________________________________________________________________________________________________#
 
+1. Clonas el repositorio en tu maquina 
+     git clone https://github.com/dennaly88/SISTEMAS-.git
 
-# git clone https://github.com/dennaly88/SISTEMAS-.git
+2. Luego vas a la ruta donde esta el proyecto que clonastes
+    cd ruta/a/mi_proyecto
 
-git add hola.html
+3. A la carpeta copias todos los Archivos o Carpetas que realizastes 
+   Si quieres subir todo aplicas 
+      git add .
+   Si quieres un archivo especifico 
+      git add nombre_del_archivo
 
-git status
+4. Revisas el estado de tu proyecto 
+     git status
 
-git commit -m 'CODIGO HTML'
+5. Creas un comentario a conmit 
+      git commit -m 'CODIGO HTML'
 
-git commit -am 'CODIGO HTML'
+6. Revisa la rama principal
+      git branch
+                   * master
 
-git push origin master
+7. Subes los cambios 
+       git push origin master
 
-git pull # Descarga la Actualizacion mas reciente del Repositorio
+___________________
+Opcionales
+___________________
 
-
-
-Usar el comando git checkout -- [nombre_archivo] para reversar los cambios 
+8. git pull # Descarga la Actualizacion mas reciente del Repositorio
+9. Usar el comando git checkout -- [nombre_archivo] para reversar los cambios 
 
 
 
