@@ -1,0 +1,19 @@
+Verifica en que rama estas 
+
+git branch
+
+
+cambia a la rama que quieres 
+
+git checkout main
+
+Luego elimina la rama que ya no existe en remoto:
+
+git branch -d nombre-rama
+
+Limpia las referencias a ramas remotas que ya no existen
+git fetch -p
+
+Puedes verificar las ramas remotas con:
+
+git branch -r
