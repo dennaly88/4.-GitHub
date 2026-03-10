@@ -33,12 +33,12 @@
 <hr>
 
 
-# 4.-GitHub
+ 4.-GitHub
 Curso Completo de GitHub Realizado por Danny Jimenez
 
-#__________________________________________________#
-#  Glosario del Curso de GitHub                                                                              
-#__________________________________________________#
+__________________________________________________
+  Glosario del Curso de GitHub                                                                              
+__________________________________________________
 
 ✅ 1.  git clone   
 ✅ 2.  git add      
